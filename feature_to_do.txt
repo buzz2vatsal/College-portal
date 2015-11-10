@@ -1,0 +1,22 @@
+#begin
+1. Student login
+	(i) Displaying results
+	(ii) Displaying Exam Time-Table
+	(iii) View News
+	(iv) Displaying future events in the college by some CLUBS/institutes.
+	(v) Displaying News
+	(vi) Giving reviews to clubs/institutes
+2. faculty login
+	(i) View students results
+	(ii) Displaying Exam time-table
+	(iii) View/Edit/Post news
+	(iv) Post information about future activities
+3. Club/Institute login
+	(i) Post information about future events
+	(ii) Take reviews from students/faculties
+4. Outsider/Visitor
+	(i) View details about college
+	(ii) Full information with contact details of faculties
+	(iii) View activities going on in college
+-Rohit
+#end
