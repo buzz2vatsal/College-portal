@@ -1,0 +1,32 @@
+#begin
+1.Home: news of college,upcoming events,circulars,achievments,past events,magazine.
+
+2.About: about our college,mangement,history,alumini
+
+3.Important notices:for payment of fees ,for registration ,related to exam (by gtu) .
+
+4.Activities:
+                .women's development cell :contact details and upcoming activities or events details  
+                .cultural activities:The cultural events can be broadly classified into competitions, festivals, workshops.
+               .udaan(annual techno-cultural event)
+
+5.Departments: list of departments,its faculties,lab facilities,department activities, expert lectures and event organised.
+
+6.Engineering library:  catlog of books , updates about new books ,journals and magazine ,etc.
+
+7.Student zone: syllabus,academic calender,class timetable,exam schedule,results(from gtu website) .
+
+8.Faculty zone :list of faculties based on departments ,includes faculty details,
+              provides faculty login facility for publishing and managing attendance, assignments etc online.
+
+9.contact us: contact number ,fax number , mail id ,address of college.
+
+10.Campus placements system – includes uploading and managing students’ profiles, no of students placed,list of companies visited.
+
+11. BVM talks: 
+	.new info about college.
+	.libarary: an update(for ex. particular book is now available)
+	.news about different departments
+	.exctra curricular activities: for example bvm won this many  prize in youth fest, etc.
+-gazala malvasi.
+#end
