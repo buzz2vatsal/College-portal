@@ -1,14 +1,18 @@
 #This is the list of all features that will be provided by the portal :
 
---> Provide information about college/faculty - 
+--> Provide information about college - 
 	 > Tagline
 	 > history 
 	 > photos 
 	 > location
-	 > all faculties information
 	 > lab information
 	 > lab pics
-	 > contact details
+	 > contact details of college
+
+--> Individual department page
+	 > Basic info about department
+	 > All faculties information
+	 > Contact details of faculties
 
 --> Educational quote of the day (1 per day)
 
@@ -20,16 +24,20 @@
 
 --> Student corner -
 	 > Seperate login
-	 > Displaying past resutls(redirected to GTU website)
+	 > Displaying past results(redirected to GTU website)
 	 > total fees to pay
-	 > submit projects(reports/pdf,login will be provided)
+	 > submit projects(reports/pdf)
 	 > exam time-table
+	 > Class time-table
 	 > Read news 
+	 > View the e-learning links published by their faculties
 	 > Fill up various forms given by faculties
+	 > A seperate academic calendar which will be synced with google calendar of individual students
 
 --> Faculty corner -
 	 > Seperate login
 	 > Can post news.
+	 > Can post e-learning links that can supplement their class-work
 	 > Post different kind of forms
 
 --> Organizations section -
@@ -49,5 +57,5 @@
 	 > Admission brouchures
   	 > Syllabus: All semester syllabus, previous year papers, redirected to gtu download
 	 > Documentations:  related to fee hike, lab manual, exam schedules etc..
-	 >  Forms: Details and pdf format about leave application , NOC, Bonafide
+	 > Forms: Details and pdf format about leave application , NOC, Bonafide
 	 
