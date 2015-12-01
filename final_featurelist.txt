@@ -53,6 +53,12 @@
 	 > List of companies visiting.
 	 > Tips by the students who are placed
 
+--> Administrator Section -
+	 > Update news regarding departments/faculties.
+	 > Post news
+	 > Update the placement section
+	 > Create new faculty logins
+
 --> Download section -
 	 > Admission brouchures
   	 > Syllabus: All semester syllabus, previous year papers, redirected to gtu download
